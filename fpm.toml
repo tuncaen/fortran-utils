@@ -1,0 +1,7 @@
+name = "fortran-utils"
+
+[library]
+source-dir = "src"
+
+[install]
+library = true

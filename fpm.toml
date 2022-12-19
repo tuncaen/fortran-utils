@@ -3,5 +3,8 @@ name = "fortran-utils"
 [library]
 source-dir = "src"
 
+[build]
+external-modules = ["hdf5"]
+
 [install]
 library = true

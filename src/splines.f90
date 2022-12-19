@@ -1,4 +1,4 @@
-module splines
+module f_splines
 
 ! Splines are fully specified by the interpolation points, except that
 ! at the ends, we have the freedom to prescribe the second derivatives.

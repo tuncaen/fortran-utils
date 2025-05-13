@@ -6,5 +6,6 @@
 *.link
 *.stamp
 *.build
+*.i90
 link.txt
 Makefile

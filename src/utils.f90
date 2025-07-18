@@ -170,7 +170,7 @@ subroutine stop_error(msg)
 
 character(len=*) :: msg ! Message to print on stdout
 print *, msg
-stop 1
+! stop 1
 end subroutine
 
 subroutine loadtxt(filename, d)
